@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BizTracker
 
 backend/  ASP.NET Core 8 API (PostgreSQL: Neon or Supabase)
@@ -20,3 +21,7 @@ Sign in as admin, open Manage, create your 3 default accounts (Default switch on
 ## Build an APK to install on phones
 npm install -g eas-cli, then in mobile/: eas build -p android --profile preview
 (needs a free Expo account; the backend must be on an https:// address for release builds)
+=======
+# Trvyam-Billing-App
+Trvyam Group 
+>>>>>>> e085e8a3eabca26f5b225706472327d4c779921f
