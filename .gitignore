@@ -1,0 +1,11 @@
+.neon
+.env.local
+**/bin/
+**/obj/
+**/node_modules/
+**/.env
+**/.env.*
+!**/.env.example
+**/appsettings.Development.json
+**/secrets.json
+.vs/
